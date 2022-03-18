@@ -1,6 +1,6 @@
 # favorite-cmd-commands
 
-## Here are three bash commands that I like:
+### Here are three bash commands that I like:
 
 | bash commands | Description                    |
 | ------------- | ------------------------------ |
